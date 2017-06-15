@@ -8,8 +8,8 @@ technology   :
 related-to   :
 status       : need more content
 when-day     : Thu
-when-time    : DS-1
-location     : Main-Room
+when-time    : PM-2
+location     : Montague
 organizers   : Ante Gulam
 participants : 
 ---
